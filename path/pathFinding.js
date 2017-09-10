@@ -134,7 +134,6 @@
       }
 
       path = path.map(node => [node.x, node.y])
-      console.log(path.length)
 
       return {
         path: path,
