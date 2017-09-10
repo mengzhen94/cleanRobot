@@ -103,7 +103,7 @@
 
 
     /**
-     * Pathfinding. Get shortest path from start to end
+     * Pathfinding. Get path from start to end
      *
      * @public
      * @param {String} fileName

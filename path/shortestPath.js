@@ -4,7 +4,7 @@
 
   var ShortestPath = (function () {
     /**
-     * Pathfinding. Get shortest path from start to end
+     * ShortestPath. Get shortest path from start to end
      *
      * @public
      * @param {vertice object} start start node
